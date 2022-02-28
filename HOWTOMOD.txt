@@ -1,5 +1,11 @@
-// How to mod the game
+Since this game is open, and no files are exactly "hidden", modding "Muffin Dancing" is actually quite easy.
 
-// (Simple)
-// Replace videoplayback with a new video (must be named videoplayback)
-// Replace "Freddy Fazbear's Pizzera Simulator OST - Just Add Water" with new audio (must be called Freddy Fazbear's Pizzera Simulator OST - Just Add Water)
+Step 1:
+Extract the files: "MuffinDancingFiles.zip" you may need 7-zip or WinRAR.
+
+Step 2: 
+Find a video (any video works, needs to be in the .MP4 format), and name it "videoplayback".
+
+Step 3:
+Find any audio (again, any audio works, needs to be in the .MP3 format), and name it anything.
+(If this doesn't work, name it "Freddy Fazbear's Pizzaera Simulator - Just Add Water"
